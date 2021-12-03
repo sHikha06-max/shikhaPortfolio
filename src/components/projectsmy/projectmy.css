@@ -1,0 +1,120 @@
+
+.myproject{
+
+    width: 100%;
+    
+    /* border: 2px solid blue; */
+    background-color: rgb(33, 33, 33);
+    height: 10%;
+   /* border: 2px solid red; */
+    justify-content: center;
+   
+}
+
+.maindis{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+.boxname{
+    /* border: 2px solid purple; */
+    font-size: 50px;
+    font-family: poppins,sans-serif;
+    background: none;
+    color: #B6B6B6;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+
+}
+
+.box_pro{
+
+    width: 390px;
+    height: 450px;
+    /* border: 2px solid purple; */
+    background-color: #B6B6B6;
+    margin: 30px;
+
+    border-radius: 20px;
+    
+    
+}
+
+.box_pro:hover{
+   
+    box-shadow: 0 0 5px 6px white;
+
+}
+
+.box_img{
+    /* border: 2px solid green; */
+    width: 90%;
+    height: 200px;
+    /* border: 2px solid black; */
+    margin: auto;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+
+
+}
+
+.projectimg{
+    /* border: 2px solid red; */
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.namehead{
+    background: none;
+    color: navy;
+    margin-top: 6%;
+    margin-left: 20%;
+    font-size: 20px;
+    font-family: poppins,sans-serif;
+}
+.namehead2{
+    background: none;
+    color: navy;
+    margin-top: 6%;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: poppins,sans-serif;
+}
+.headbox{
+    width: 100%;
+    height: 70px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+}
+
+.linkdiv{
+    /* border: 2px solid blue; */
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+
+.gitlogo{
+  
+    width: 40px;
+    height: 40px;
+   
+
+}
+
+.paniclass{
+    font-family: poppins,sans-serif;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+span{
+    font-family: poppins,sans-serif;
+}
