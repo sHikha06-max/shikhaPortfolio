@@ -77,6 +77,7 @@ function Projectsmy(){
           <h3 className='namehead2'> <a
                                     // href={socialsData.github}
                                     href='https://moo-project.vercel.app/'
+                                    
                                     target='_blank'
                                     rel='noreferrer'
                                     // className={classes.socialIcon}

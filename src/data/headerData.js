@@ -4,7 +4,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Shikha Mishra',
     title: "Web Developer",
-    desciption:"I am a Full-Stack Web Developer. Having good hands on react and redux. Looking forward to build scalable applications to enhance my skills.     ",
+    desciption:"I am a Full-Stack Web Developer. Having good hands-on react and redux. Looking forward to building scalable applications to enhance my skills.     ",
     //  image:profilepic,
     // image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
     resumePdf: resume
