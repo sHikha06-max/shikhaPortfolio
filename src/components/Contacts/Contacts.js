@@ -269,12 +269,13 @@ function Contacts() {
                             
                             {socialsData.mail && (
                                 <a
-                                    href={socialsData.mail}
+                                    // href={socialsData.mail}
+                                    href={`mailto:${contactsData.email}`}
                                     target='_blank'
                                     rel='noreferrer'
                                     className={classes.socialIcon}
                                 >
-                                    <FaMediumM aria-label='Mail' />
+                                    <FiAtSign aria-label='Mail' />
                                 </a>
                             )}
                             {/* {socialsData.blogger && (

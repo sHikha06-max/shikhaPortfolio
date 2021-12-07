@@ -7,6 +7,8 @@ import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
+import { contactsData } from '../../data/contactsData';
+import { FiPhone, FiAtSign } from 'react-icons/fi';
 
 import {
     FaTwitter,
@@ -15,6 +17,8 @@ import {
     FaYoutube,
     FaBlogger,
     FaMedium,
+    FaMailBulk,
+    FaMailchimp,
 } from 'react-icons/fa';
 
 function Landing() {
@@ -85,7 +89,7 @@ function Landing() {
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaMedium
+                                <FiAtSign
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='mail'
