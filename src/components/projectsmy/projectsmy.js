@@ -42,7 +42,7 @@ function Projectsmy(){
                                     rel='noreferrer'
                                    
                                     
-                                >PepperFry CLONE</a></h3>
+                                >PepperFry Clone</a></h3>
           <div className='linkdiv' >
               <label className='paniclass'>Tech Stack : HTML| CSS | JavaScript</label>
               

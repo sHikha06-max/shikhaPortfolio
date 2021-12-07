@@ -76,17 +76,19 @@ function Landing() {
                     style={{ backgroundColor: theme.primary }}
                 >
                     <div className='lcl--content'>
-                        {socialsData.linkedIn && (
+                        {/* {socialsData.linkedIn && ( */}
+                            {socialsData.mail && (
                             <a
                                 // href={socialsData.linkedIn}
-                                href='https://medium.com/@squirrelstudio0'
+                                // href='https://medium.com/@squirrelstudio0'
+                                href={`mailto:${contactsData.email}`}
                                 target='_blank'
                                 rel='noreferrer'
                             >
                                 <FaMedium
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
-                                    aria-label='LinkedIn'
+                                    aria-label='mail'
                                 />
                             </a>
                         )}
