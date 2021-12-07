@@ -10,7 +10,7 @@ function Main() {
     return (
         <div>
             <Helmet>
-                <title>{headerData.name} -hello Porfolio</title>
+                <title>{headerData.name}</title>
             </Helmet>
 
             <Navbar />        
