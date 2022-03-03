@@ -67,7 +67,7 @@ function Projectsmy(){
         <div className='box_img'>
         <a
                                    
-                                    href='https://moo-project.vercel.app/'
+                                    href='https://bookmyshow-5a00b.firebaseapp.com/'
                                     target='_blank'
                                     rel='noreferrer'
                                     
@@ -76,18 +76,18 @@ function Projectsmy(){
          
           <h3 className='namehead2'> <a
                                    
-                                    href='https://moo-project.vercel.app/'
+                                    href='https://bookmyshow-5a00b.firebaseapp.com/'
                                     
                                     target='_blank'
                                     rel='noreferrer'
                                     
                                     
-                                >Moo Clone</a> </h3>
+                                >Bookmyshow Clone</a> </h3>
           <div className='linkdiv' >
-              <label className='paniclass'>Tech Stack : HTML| CSS | JavaScript</label>
+              <label className='paniclass'>Tech Stack : ReactJs | CSS | MongoDb | ExpressJs </label>
           <a
                                    
-                                    href='https://github.com/sHikha06-max/moo_Project'
+                                    href='https://github.com/ashwanikpankaj/bookmyshow_clone'
                                     target='_blank'
                                     rel='noreferrer'
                                     
@@ -96,7 +96,7 @@ function Projectsmy(){
                                     <FaGithub className='gitlogo' aria-label='GitHub' />
                                 </a>
           </div>
-          <span>A website where people can choose different cards and select the card they want on the cards</span>
+          <span>A website where people can select movies according their choice and seats where they want to sit.</span>
           </div>
         </div>
       
